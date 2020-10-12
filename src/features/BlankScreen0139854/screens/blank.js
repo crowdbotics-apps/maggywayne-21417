@@ -12,7 +12,6 @@ import {
   withStyles,
   Text,
   Button,
-  CheckBox,
   Radio,
   Toggle,
   Icon,
